@@ -1,0 +1,7 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\ilyda\OneDrive\Desktop\fpga\memory\src\memory.v'
+ERROR (EX3863) : Syntax error near 'parameter'("C:\Users\ilyda\OneDrive\Desktop\fpga\memory\src\memory.v":2)
+ERROR (EX2656) : Verilog 2001 keyword 'parameter' used in incorrect context("C:\Users\ilyda\OneDrive\Desktop\fpga\memory\src\memory.v":2)
+Verilog file 'C:\Users\ilyda\OneDrive\Desktop\fpga\memory\src\memory.v' ignored due to errors
+GowinSynthesis finish
